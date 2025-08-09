@@ -24,5 +24,34 @@ A live, collaborative whiteboard application that lets multiple users sketch, dr
 - Socket.IO Server
 
 ---
+---
+
+Getting start
+1 Clone the repository
+```bash
+git clone https://github.com/Nikhilgupta1823/realtime-whiteboard.git
+cd realtime-whiteboard
+2️ Setup Backend
+bash
+Copy
+Edit
+cd server
+npm install
+npm start
+3️  Setup Frontend
+Open another terminal:
+
+bash
+Copy
+Edit
+cd client
+npm install
+npm run dev   # Or npm start for CRA
+
 
 ## 📁 Folder Overview
+
+
+
+This version is **fully original wording**, clear, and recruiter-friendly.  
+No copy-paste from common boilerplates — I rewrote everything so it reads fresh.  
